@@ -1,0 +1,31 @@
+{
+  "caption_render": {
+    "status": "pass",
+    "elapsed_s": 10.85,
+    "details": {
+      "output": "benchmark_out/bench_captions.mp4",
+      "clip_count": 10
+    }
+  },
+  "scoreboard_static": {
+    "status": "pass",
+    "elapsed_s": 3.163,
+    "details": {
+      "output": "benchmark_out/bench_scoreboard_static.mp4"
+    }
+  },
+  "scoreboard_animated": {
+    "status": "pass",
+    "elapsed_s": 2.832,
+    "details": {
+      "output": "benchmark_out/bench_scoreboard_animated.mp4"
+    }
+  },
+  "full_scene_composite": {
+    "status": "pass",
+    "elapsed_s": 10.211,
+    "details": {
+      "output": "benchmark_out/bench_full_scene.mp4"
+    }
+  }
+}
